@@ -1,7 +1,7 @@
-# SQL Projects
+# SQL Project - Walmart's sales
 Welcome to my SQL Project repository!
 
-This project aims to analyze and visualize Walmart's sales data. The data is sourced from the Kagel website and processed using SQL.
+This project aims to analyze Walmart's sales data. The data is sourced from the Kagel website and processed using SQL.
 The data contains the following columns:
 - Store: Store number
 - Date: Sales week start date
