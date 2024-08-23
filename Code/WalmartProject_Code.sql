@@ -1,11 +1,7 @@
-/* This table shows a walmart sales data. In this project I would 
-like to answear the following questions:
-1. How many stores included in this data
-2. Which date has the higest sales
-
-
+/* This table shows Walmart sales data. In this project I would like to answer the following questions: 
+1. How many stores are included in this data 
+2. Which date has the highest sales
 */
-
 
 
 /* Firstly I would like to show all data of this table*/
