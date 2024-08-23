@@ -1,7 +1,7 @@
 /* This table shows Walmart sales data. In this project I would like to answer the following questions: 
 1. How many stores are included in this data 
 2. Which date has the highest sales
-3. Which dstore has the higest total sales
+3. Which store has the higest total sales
 */
 
 
@@ -21,7 +21,7 @@ SELECT * FROM dbo.Walmart_Store_sales
 ORDER BY Weekly_Sales DESC
 
 
-/* 3. Which dstore has the higest total sales */
+/* 3. Which store has the higest total sales */
 
 SELECT Store, SUM(Weekly_Sales) AS Total_Sales
 FROM dbo.Walmart_Store_sales
